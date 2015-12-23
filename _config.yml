@@ -1,0 +1,28 @@
+name: Ben Pham
+favicon: null
+layout_spectrum: 0.6544404467567801
+typography_spectrum: 0.594386444427073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.20799305848777294
+  lightness: 0.8136653753463179
+  saturation: 0.06110924109816551
+  rhythmicContrast: 0.6375733881723136
+purpose: []
